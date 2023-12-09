@@ -1,0 +1,29 @@
+/*color scheme:
+    Black: #241e1b
+    Grey: d8d3d0
+    Yellow: e4a324
+    Blue: 347d99
+    Red: db402f
+*/
+
+h1 { 
+    font-family: Baskerville, serif; 
+    font-size: 100px; 
+    font-style: normal; 
+    font-weight: 700; 
+    line-height: 60px; 
+    color: #241e1b;
+    padding: 5%;
+    text-align: center;
+} 
+
+p {
+    
+    color: #241e1b;
+    padding: 1%;
+    text-align: center;
+}
+
+.aboutmeVid {
+    align-self: center;
+}

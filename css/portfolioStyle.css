@@ -1,0 +1,112 @@
+/*color scheme:
+    Black: #241e1b
+    Grey: d8d3d0
+    Yellow: e4a324
+    Blue: 347d99
+    Red: db402f
+*/
+
+h1 { 
+    font-family: Baskerville, serif; 
+    font-size: 100px; 
+    font-style: normal; 
+    font-weight: 700; 
+    line-height: 60px; 
+    color: #241e1b;
+    padding: 5%;
+    text-align: center;
+} 
+
+.secBuilds {
+    width: 98vw;
+    padding-top: 3%;
+    text-align: center;
+    align-items: center;
+    font-family: Baskerville, serif; 
+    font-size: 55px; 
+    font-style: normal; 
+    font-weight: 700; 
+    line-height: 60px; 
+    color: #241e1b;
+    background-color: #e4a324;
+}
+
+.portfolio-makes {
+    padding: 2%;
+    background-color: #e4a324;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 2%;
+    align-items: center;
+}
+
+.secDigital {
+    width: 98vw;
+    padding-top: 5%;
+    text-align: center;
+    align-items: center;
+    font-family: Baskerville, serif; 
+    font-size: 55px; 
+    font-style: normal; 
+    font-weight: 700; 
+    line-height: 60px; 
+    color: #241e1b;
+    background-color: #347d99;
+}
+
+.portfolio-digital {
+    padding: 2%;
+    display: grid;
+    background-color: #347d99;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 2%;
+    align-items: center;
+    
+}
+
+.secFilm {
+    width: 98vw;
+    padding-top: 5%;
+    text-align: center;
+    align-items: center;
+    font-family: Baskerville, serif; 
+    font-size: 55px; 
+    font-style: normal; 
+    font-weight: 700; 
+    line-height: 60px; 
+    color: #241e1b;
+    background-color: #db402f;
+}
+
+.portfolio-film-video {
+    padding: 2%;
+    background-color: #db402f;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 2%;
+    align-items: center;
+}
+
+.secArtwork {
+    width: 98vw;
+    padding-top: 5%;
+    text-align: center;
+    align-items: center;
+    font-family: Baskerville, serif; 
+    font-size: 55px; 
+    font-style: normal; 
+    font-weight: 700; 
+    line-height: 60px; 
+    color: #241e1b;
+    background-color: #e4a324;
+}
+
+.portfolio-artwork {
+    padding: 2%;
+    background-color: #e4a324;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+    grid-gap: 2%;
+    align-items: center;
+}
